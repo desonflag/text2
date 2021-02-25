@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"fileheader.customMade": {
+			"autoAdd": false,  //关闭自动生成头部注释
+		},
+	}
+}
